@@ -1,0 +1,21 @@
+fieldset{
+    background-color:lightgray
+}
+button{
+    
+    font-style: italic;
+    font-size: x-large;
+    border-style: outset;
+    border-color:black ;
+    height: 85px;
+    width: 85px;
+    font: icon;
+    text-shadow: none;
+    text-decoration: solid;
+
+    
+
+}
+button:hover{
+    background-color: brown;
+}

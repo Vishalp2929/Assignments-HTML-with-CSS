@@ -1,0 +1,13 @@
+
+h1{
+    font-stretch: extra-expanded;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: cadetblue;
+}
+fieldset{
+    background-color: bisque;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}

@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color:darkslategray
+    }
+    h2{
+        color:darkslategray
+    }
+    p{
+        color: crimson;
+    }
+    legend{
+        color: crimson;
+    }
+    #submit{
+     margin: 15px;
+       
+    }
+    *{
+        background-color: lightgoldenrodyellow;
+    }
+
+

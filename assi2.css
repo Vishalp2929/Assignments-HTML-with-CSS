@@ -1,0 +1,16 @@
+h1{
+    box-sizing: border-box;
+    text-align: center;
+    border-color: blue;
+    border: 6px;
+    color: black;
+    background-color: antiquewhite;
+    border-width: 1px;
+    border-style:solid;
+}
+div{
+    text-align: center;
+    background-color: azure;
+    font-size: large;
+}
+
